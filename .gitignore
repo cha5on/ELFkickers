@@ -1,0 +1,13 @@
+*.[oa]
+bin/
+doc/
+ebfc/ebfc
+elfls/elfls
+elfrw/libelfrw.a
+elftoc/elfnames.c
+elftoc/elftoc
+elftoc/mknames
+infect/infect
+objres/objres
+rebind/rebind
+sstrip/sstrip
